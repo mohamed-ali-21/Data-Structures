@@ -1,0 +1,83 @@
+E:/My Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.exe
+E:/My Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.deps.json
+E:/My Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.runtimeconfig.json
+E:/My Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.dll
+E:/My Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.pdb
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.AssemblyReference.cache
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfoInputs.cache
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfo.cs
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.CoreCompileInputs.cache
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.dll
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/refint/Data Structures.dll
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.pdb
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.genruntimeconfig.cache
+E:/My Projects/Data Structures/Data Structures/obj/Debug/net6.0/ref/Data Structures.dll
+E:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.exe
+E:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.deps.json
+E:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.runtimeconfig.json
+E:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.dll
+E:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.pdb
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.AssemblyReference.cache
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfoInputs.cache
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfo.cs
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.CoreCompileInputs.cache
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.dll
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/refint/Data Structures.dll
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.pdb
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.genruntimeconfig.cache
+E:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/ref/Data Structures.dll
+D:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.exe
+D:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.deps.json
+D:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.runtimeconfig.json
+D:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.dll
+D:/My Projects/Learning/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.pdb
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.AssemblyReference.cache
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfoInputs.cache
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfo.cs
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.CoreCompileInputs.cache
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.dll
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/refint/Data Structures.dll
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.pdb
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.genruntimeconfig.cache
+D:/My Projects/Learning/Data Structures/Data Structures/obj/Debug/net6.0/ref/Data Structures.dll
+E:/Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.exe
+E:/Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.deps.json
+E:/Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.runtimeconfig.json
+E:/Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.dll
+E:/Projects/Data Structures/Data Structures/bin/Debug/net6.0/Data Structures.pdb
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.AssemblyReference.cache
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfoInputs.cache
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfo.cs
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.CoreCompileInputs.cache
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.dll
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/refint/Data Structures.dll
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.pdb
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.genruntimeconfig.cache
+E:/Projects/Data Structures/Data Structures/obj/Debug/net6.0/ref/Data Structures.dll
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.AssemblyReference.cache
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfoInputs.cache
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.AssemblyInfo.cs
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.csproj.CoreCompileInputs.cache
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.dll
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/ref/Data Structures.dll
+/media/mohamed/04E208A7E2089F54/Projects/Learn/Data Structures/Data Structures/obj/Debug/net6.0/Data Structures.pdb
+E:\Projects\Learn\Data Structures\Data Structures\bin\Debug\net6.0\Data Structures.exe
+E:\Projects\Learn\Data Structures\Data Structures\bin\Debug\net6.0\Data Structures.deps.json
+E:\Projects\Learn\Data Structures\Data Structures\bin\Debug\net6.0\Data Structures.runtimeconfig.json
+E:\Projects\Learn\Data Structures\Data Structures\bin\Debug\net6.0\Data Structures.dll
+E:\Projects\Learn\Data Structures\Data Structures\bin\Debug\net6.0\Data Structures.pdb
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.csproj.AssemblyReference.cache
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.AssemblyInfoInputs.cache
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.AssemblyInfo.cs
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.csproj.CoreCompileInputs.cache
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.dll
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\refint\Data Structures.dll
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.pdb
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\Data Structures.genruntimeconfig.cache
+E:\Projects\Learn\Data Structures\Data Structures\obj\Debug\net6.0\ref\Data Structures.dll
